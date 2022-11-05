@@ -12,7 +12,7 @@ Creality Ender-3 Mainboard 4.2.2 BL-Touch Marlin bugfix-2.1.x Custom Firmware
  - Enabled Advanced OK
  - Enabled CLASSIC_JERK
  - Enabled Linear Advance
- - Enabled Smart Filament Runout Sensor (Add M412 S0 in your Start G-Code if you do not have a filament sensor).
+ - Enabled Filament Runout Sensor (Add M412 S0 in your Start G-Code if you do not have a filament sensor).
  - Added support for Meatpack
 
 
